@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|c:\\users\\bacto\\source\\repos\\jobapplicationtest\\carlobactol_danaostest\\danaosbackend\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|c:\\users\\bacto\\source\\repos\\jobapplicationtest\\carlobactol_danaostest\\danaosbackend\\models\\courseaveragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|solutionrelative:models\\courseaveragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|c:\\users\\bacto\\source\\repos\\jobapplicationtest\\carlobactol_danaostest\\danaosbackend\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72D1706-EB59-3D0B-C03D-B5F53865123C}|DanaosBackend.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:14:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseAverageDto.cs",
+              "DocumentMoniker": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Models\\CourseAverageDto.cs",
+              "RelativeDocumentMoniker": "Models\\CourseAverageDto.cs",
+              "ToolTip": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Models\\CourseAverageDto.cs",
+              "RelativeToolTip": "Models\\CourseAverageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:14:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\bacto\\source\\repos\\JobApplicationTest\\CarloBactol_DanaosTest\\DanaosBackend\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:08:17.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
